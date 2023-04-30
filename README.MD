@@ -7,6 +7,6 @@
 ### Run
 
 - Run the application via the command line with the following usage patten:
-    - huffman.exe <image>
+    - huffman.exe \<image\>
 - Example:
     - huffman.exe cat.jpg
